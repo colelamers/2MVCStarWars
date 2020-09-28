@@ -1,4 +1,0 @@
-Macro Function
-Inline function
-Overloading
-function template?
